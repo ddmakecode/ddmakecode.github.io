@@ -1,5 +1,5 @@
 # ddmakecode.github.io
-Hello, I'm Dan M. My email is dmakemist@gmail.com.
+Hello, I'm Dan M. My email is ddmakemson@my.waketech.edu.
 
 This is my Github account where I plan to post bits of code and documents I work on throughout this semester.
 
